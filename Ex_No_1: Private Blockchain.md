@@ -1,7 +1,11 @@
 
 # EX.NO-1
+```
 # CREATING A PRIVATE BLOCKCHAIN
-# DATE:17.11.25
+```
+```
+DATE:17.11.25
+```
 
 ```
 NAME: MUKESH R
