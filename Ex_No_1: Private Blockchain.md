@@ -1,10 +1,17 @@
 
-EX.NO-1
-CREATING A PRIVATE DATE: BLOCKCHAIN
-AIM
+# EX.NO-1
+# CREATING A PRIVATE BLOCKCHAIN
+# DATE:17.11.25
+
+```
+NAME: MUKESH R
+REG NO: 212224240098
+```
+
+# AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
-PROCEDURE
+# PROCEDURE
 
 ```
 1.Go to https //geth.ethereum.org/ and download the software for windows. While installing select
@@ -112,11 +119,13 @@ return name;
 }
 }
 ```
-OUTPUT
+# OUTPUT
 # Deploying Transaction in Remix
-7
-# Contract Creation Output in Command Prompt
-<img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2f620322-0ac3-46bc-937a-74f5b53f58d2" />
 
-RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
+# Contract Creation Output in Command Prompt
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/623b4210-bc75-47f7-9fa8-84edb1b4b0a6" />
+
+# RESULT:
+Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
 into it by creating and deploying Smart contract successfully
